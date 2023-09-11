@@ -1,6 +1,9 @@
+import { Button } from "./components/ui/button";
+
 export function App() {
 
   return (
-    <h1></h1>
+    
+    <Button>oi</Button>
   )
 }
